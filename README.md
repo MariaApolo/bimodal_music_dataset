@@ -11,3 +11,6 @@ The dataset has the following features:
 * cover art files in .jpg image format
 * metadata file in .xlsx metadata format (Spotify id, Song name, Song artist, Song album, Genre)
 
+If you use this dataset, please cite the following reference:
+
+Apolo, M., Mendoza, M. Bimodal style transference from musical composition to image using deep generative models, In proceedings of the 25TH INTERNATIONAL CONFERENCE ON HUMAN-COMPUTER INTERACTION, Copenhagen, Denmark, 23-28 July 2023.
